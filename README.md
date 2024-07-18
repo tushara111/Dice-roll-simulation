@@ -1,1 +1,1 @@
-# Dice-roll-simulation
+# Dice roll simulation python
